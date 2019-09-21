@@ -1,0 +1,3 @@
+[submodule "ext/ISEScriptingGeek"]
+	path = ext/ISEScriptingGeek
+	url = git@github.com:jdhitsolutions/ISEScriptingGeek.git
